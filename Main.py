@@ -1,5 +1,5 @@
 print("Welcome To Simple Dox!")
-print("Made By Syriamanal")
+print("Made By tna1432")
 #----- About -----
 FullName = input("Enter Full Name: ")
 Address = input("Enter Home Address: ")
