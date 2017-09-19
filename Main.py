@@ -1,4 +1,4 @@
-print("Welcome To Simple Dox!")
+print("Welcome To Where You at Fam?")
 print("Made By tna1432")
 #----- About -----
 FullName = input("Enter Full Name: ")
